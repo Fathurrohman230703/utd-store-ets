@@ -1,5 +1,3 @@
-// Product cubit
-
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 import '../../data/repositories/product_repository.dart';
