@@ -25,6 +25,8 @@ class HomePage extends StatelessWidget {
           title: const Text('UTD Store'),
         ),
 
+// Fix UI
+
         body: Column(
 
           children: [
