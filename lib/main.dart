@@ -1,3 +1,5 @@
+// // setup splash feature
+
 import 'package:flutter/material.dart';
 
 import 'core/di/injection.dart';
